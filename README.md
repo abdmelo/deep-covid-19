@@ -1,4 +1,4 @@
-## Fake News Detection
+## Covid-19 Detection (Deep Learning)
 
 
 
